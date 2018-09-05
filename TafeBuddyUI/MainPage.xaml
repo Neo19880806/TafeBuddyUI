@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="TafeBuddyUI.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TafeBuddyUI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Red">
+        <Image x:Name="image" HorizontalAlignment="Left" Height="53" Margin="95,163,0,0" VerticalAlignment="Top" Width="185" Source="Assets/backgound.bmp" RenderTransformOrigin="0.771,0.541" />
+        <Button x:Name="LogInbutton" Content="Log In" HorizontalAlignment="Left" Margin="95,345,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,0.375"  Width="185"/>
+        <Button x:Name="TimeTableButton" Content="My Time Table
+                " HorizontalAlignment="Left" Margin="95,382,0,0" VerticalAlignment="Top" Width="185"/>
+        <Button x:Name="Coursebutton" Content="My Courses" HorizontalAlignment="Left" Margin="95,419,0,0" VerticalAlignment="Top" Width="185"/>
+        <Button x:Name="RoomButton" Content="Room Navigator" HorizontalAlignment="Left" Margin="95,456,0,0" VerticalAlignment="Top" Width="185"/>
+        <Button x:Name="CFIButton" Content="Class Finder" HorizontalAlignment="Left" Margin="95,493,0,0" VerticalAlignment="Top" Width="185" Click="CFIButton_Click"/>
+    </Grid>
+</Page>

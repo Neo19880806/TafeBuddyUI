@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCFIDetail xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CFIDetail>
+    <CRN>11893</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-01 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>1500 - 1800</Time>
+    <Room>N008</Room>
+    <Lecturer>Iain - Stanley</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>11893</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-01 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>1800 - 2100</Time>
+    <Room>N008</Room>
+    <Lecturer>Iain - Stanley</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>11893</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>1500 - 1800</Time>
+    <Room>N008</Room>
+    <Lecturer>Iain - Stanley</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>11893</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>1800 - 2100</Time>
+    <Room>N008</Room>
+    <Lecturer>Iain - Stanley</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12041</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-05 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Fri</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>N008</Room>
+    <Lecturer>Nadil - Sundarapperuma</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12421</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-18 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1200 - 1500</Time>
+    <Room>N006</Room>
+    <Lecturer>Kim - Roberts</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12591</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>N006</Room>
+    <Lecturer>Julie - Ruiz</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13128</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1500 - 1800</Time>
+    <Room>N008</Room>
+    <Lecturer>Julie - Ruiz</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13228</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-01 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>E323</Room>
+    <Lecturer>Danny - Sarris</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12086</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>E206</Room>
+    <Lecturer>Kwok - Lau</Lecturer>
+    <Campus>NOA - Noarlunga</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-05 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Fri</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-05 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Fri</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Fri</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6488</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Fri</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6529</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-07-28 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6529</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-07-28 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6529</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6529</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>A22</Room>
+    <Lecturer>Daryn - Piltz</Lecturer>
+    <Campus>BER - Berri</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12453</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-17 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12453</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-17 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12453</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-18 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12453</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-18 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12453</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-19 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12453</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-19 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1730 - 2030</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12453</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-20 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-01 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-01 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Mon</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1230 - 1530</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1730 - 2030</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>13468</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>C3</Room>
+    <Lecturer>Jodie - Kurtz</Lecturer>
+    <Campus>BVA - Barossa Valley</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB02</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6170</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>KAB03</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>KAD - Kadina</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6401</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>D28</Room>
+    <Lecturer>David - Morris</Lecturer>
+    <Campus>MTB - Mount Barker</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12444</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1330 - 1430</Time>
+    <Room>0</Room>
+    <Lecturer>Julie - Ruiz</Lecturer>
+    <Campus>MTG - Mount Gambier</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12701</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>G11</Room>
+    <Lecturer>Roberto - Cevallos</Lecturer>
+    <Campus>MTG - Mount Gambier</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6120</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0830 - 1130</Time>
+    <Room>PPB09</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>PPI - Port Pirie</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6120</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1200 - 1500</Time>
+    <Room>PPB09</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>PPI - Port Pirie</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6120</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0830 - 1130</Time>
+    <Room>PPB09</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>PPI - Port Pirie</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6120</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1200 - 1500</Time>
+    <Room>PPB09</Room>
+    <Lecturer>Deb - Farrell</Lecturer>
+    <Campus>PPI - Port Pirie</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-02 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-10-02 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Tue</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>6654</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-15 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1300 - 1600</Time>
+    <Room>PL2.6</Room>
+    <Lecturer>Josel - Bautista</Lecturer>
+    <Campus>PTL - Port Lincoln</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>14600</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-20 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1200 - 1500</Time>
+    <Room>1.10</Room>
+    <Lecturer>Vicki - Thomas</Lecturer>
+    <Campus>ELZ - Elizabeth</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>14643</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>1.09</Room>
+    <Lecturer>Danny - Sarris</Lecturer>
+    <Campus>ELZ - Elizabeth</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>14666</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-05 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Fri</DayOfWeek>
+    <Time>1200 - 1500</Time>
+    <Room>1.10</Room>
+    <Lecturer>Vicki - Thomas</Lecturer>
+    <Campus>ELZ - Elizabeth</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>14698</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-04 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Thu</DayOfWeek>
+    <Time>1800 - 2100</Time>
+    <Room>1.08</Room>
+    <Lecturer>0</Lecturer>
+    <Campus>ELZ - Elizabeth</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>20479</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-10-19 00:00:00</StartDate>
+    <EndDate>2016-12-09 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>S1.07</Room>
+    <Lecturer>0</Lecturer>
+    <Campus>TTG - Tea Tree Gully</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>20498</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>1200 - 1500</Time>
+    <Room>S1.07</Room>
+    <Lecturer>Alex - Worrall</Lecturer>
+    <Campus>TTG - Tea Tree Gully</Campus>
+  </CFIDetail>
+  <CFIDetail>
+    <CRN>12591</CRN>
+    <SubjectCode>3PRB</SubjectCode>
+    <CompetencyName>ICTPRG301-Apply introductory programming techniques (3PRB)</CompetencyName>
+    <StartDate>2016-08-03 00:00:00</StartDate>
+    <EndDate>2016-09-23 00:00:00</EndDate>
+    <DayOfWeek>Wed</DayOfWeek>
+    <Time>0900 - 1200</Time>
+    <Room>N007</Room>
+    <Lecturer>Julie - Ruiz</Lecturer>
+    <Campus>ADL - Adelaide City</Campus>
+  </CFIDetail>
+</ArrayOfCFIDetail>

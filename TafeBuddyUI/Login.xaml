@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="TafeBuddyUI.Login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TafeBuddyUI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="Red">
+        <Image x:Name="image" HorizontalAlignment="Left" Height="60" Margin="82,250,0,0" VerticalAlignment="Top" Width="204"  Source="Assets/backgound.bmp" />
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="66,0,0,241" TextWrapping="Wrap" Text="Student ID:" VerticalAlignment="Bottom" Height="32"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Margin="144,0,0,241" TextWrapping="Wrap" Text="" VerticalAlignment="Bottom" RenderTransformOrigin="1.244,0.365" Width="140"/>
+        <TextBlock x:Name="textBlock1" HorizontalAlignment="Left" Margin="66,404,0,0" TextWrapping="Wrap" Text="Password:" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox1" HorizontalAlignment="Left" Margin="144,404,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="button" Content="Cancel" HorizontalAlignment="Left" Margin="82,477,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1" Content="Log In" HorizontalAlignment="Left" Margin="223,477,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.525,-0.635"/>
+
+    </Grid>
+</Page>
