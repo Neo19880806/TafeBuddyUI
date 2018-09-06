@@ -30,6 +30,12 @@ namespace TafeBuddyUI
         private void CFIButton_Click(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(CFIProjectUWP.CFIValidSubjectPage));
+       
+        }
+
+        private void Coursebutton_Click(System.Object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(Timetable.TimetableMainPage));
         }
     }
 
