@@ -9,11 +9,11 @@
 
     <Grid Background="Red">
         <Image x:Name="image" HorizontalAlignment="Left" Height="53" Margin="95,163,0,0" VerticalAlignment="Top" Width="185" Source="Assets/backgound.bmp" RenderTransformOrigin="0.771,0.541" />
-        <Button x:Name="LogInbutton" Content="Log In" HorizontalAlignment="Left" Margin="95,345,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,0.375"  Width="185"/>
+        <Button x:Name="LogInbutton" Content="Log In" HorizontalAlignment="Left" Margin="95,345,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.292,0.375"  Width="185" Click="LogInbutton_Click"/>
         <Button x:Name="TimeTableButton" Content="My Time Table
-                " HorizontalAlignment="Left" Margin="95,382,0,0" VerticalAlignment="Top" Width="185"/>
-        <Button x:Name="Coursebutton" Content="My Courses" HorizontalAlignment="Left" Margin="95,419,0,0" VerticalAlignment="Top" Width="185"/>
-        <Button x:Name="RoomButton" Content="Room Navigator" HorizontalAlignment="Left" Margin="95,456,0,0" VerticalAlignment="Top" Width="185"/>
-        <Button x:Name="CFIButton" Content="Class Finder" HorizontalAlignment="Left" Margin="95,493,0,0" VerticalAlignment="Top" Width="185" Click="CFIButton_Click"/>
+                " HorizontalAlignment="Left" Margin="95,382,0,0" VerticalAlignment="Top" Width="185" IsEnabled="False"/>
+        <Button x:Name="Coursebutton" Content="My Courses" HorizontalAlignment="Left" Margin="95,419,0,0" VerticalAlignment="Top" Width="185" IsEnabled="False"/>
+        <Button x:Name="RoomButton" Content="Room Navigator" HorizontalAlignment="Left" Margin="95,456,0,0" VerticalAlignment="Top" Width="185" IsEnabled="False"/>
+        <Button x:Name="CFIButton" Content="Class Finder" HorizontalAlignment="Left" Margin="95,493,0,0" VerticalAlignment="Top" Width="185" Click="CFIButton_Click" IsEnabled="False"/>
     </Grid>
 </Page>
