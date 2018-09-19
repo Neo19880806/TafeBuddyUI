@@ -12,11 +12,11 @@
             <MenuFlyout/>
         </FlyoutBase.AttachedFlyout>
         <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="Student Timetable" VerticalAlignment="Top" Height="21" Width="148"/>
-        <Button HorizontalAlignment="Left" Margin="10,97,0,0"  Content="13:00 - 1500                6MITP                    B003" VerticalAlignment="Top" Height="32" Width="340" Click="Button_Click_1" />
-        <Button HorizontalAlignment="Left" Margin="10,171,0,0"  Content="16:00 - 1800                5Work                    B003" VerticalAlignment="Top" Height="32" Width="340" Click="Button_Click_2"/>
+        <Button HorizontalAlignment="Left" Margin="10,97,0,0"  Content="13:00 - 1500                6MITP                    B003" VerticalAlignment="Top" Height="38" Width="1046" Click="Button_Click_1" />
+        <Button HorizontalAlignment="Left" Margin="10,185,0,0"  Content="16:00 - 1800                5Work                    B003" VerticalAlignment="Top" Height="38" Width="1046" Click="Button_Click_2"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,72,0,0" TextWrapping="Wrap" Text="Wednesday, September 5 12018" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,146,0,0" TextWrapping="Wrap" Text="Thursday, September 6 12018" VerticalAlignment="Top"/>
-        <Button Content="Month" HorizontalAlignment="Left" Margin="289,598,0,10" VerticalAlignment="Stretch" Width="61" Click="Button_Click"/>
+        <Button Content="Month" HorizontalAlignment="Left" Margin="1048,576,0,88" VerticalAlignment="Stretch" Width="190" Click="Button_Click"/>
 
     </Grid>
 </Page>
