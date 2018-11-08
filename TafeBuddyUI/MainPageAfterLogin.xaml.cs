@@ -15,36 +15,31 @@ using Windows.UI.Xaml.Navigation;
 
 // The Blank Page item template is documented at http://go.microsoft.com/fwlink/?LinkId=234238
 
-namespace TafeBuddyUI.Timetable
+namespace TafeBuddyUI
 {
     /// <summary>
     /// An empty page that can be used on its own or navigated to within a Frame.
     /// </summary>
-    public sealed partial class TimetableMainPage : Page
+    public sealed partial class MainPageAfterLogin : Page
     {
-        public TimetableMainPage()
+        public MainPageAfterLogin()
         {
             this.InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void LogOutbutton_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(Timetable.monthTimetablePage));
+            this.Frame.Navigate(typeof(TafeBuddyUI.MainPage));
         }
 
-        private void Button_Click_1(object sender, RoutedEventArgs e)
+        private void CFIButton_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(Timetable.DetailPage));
+            this.Frame.Navigate(typeof(CFIProjectUWP.CFIValidSubjectPage));
         }
 
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        private void Coursebutton_Click(object sender, RoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(Timetable.DetailPage));
-        }
-
-        private void btnBack_Click(object sender, RoutedEventArgs e)
-        {
-            this.Frame.Navigate(typeof(MainPageAfterLogin));
+            this.Frame.Navigate(typeof(Timetable.TimetableMainPage));
         }
     }
 }

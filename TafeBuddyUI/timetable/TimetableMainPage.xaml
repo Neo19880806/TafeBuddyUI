@@ -17,6 +17,7 @@
         <TextBlock HorizontalAlignment="Left" Margin="10,72,0,0" TextWrapping="Wrap" Text="Wednesday, September 5 12018" VerticalAlignment="Top"/>
         <TextBlock HorizontalAlignment="Left" Margin="10,146,0,0" TextWrapping="Wrap" Text="Thursday, September 6 12018" VerticalAlignment="Top"/>
         <Button Content="Month" HorizontalAlignment="Left" Margin="1048,576,0,88" VerticalAlignment="Stretch" Width="190" Click="Button_Click"/>
+        <Button x:Name="btnBack" Content="Back" HorizontalAlignment="Left" Height="34" Margin="10,36,0,0" VerticalAlignment="Top" Width="71" Click="btnBack_Click"/>
 
     </Grid>
 </Page>
