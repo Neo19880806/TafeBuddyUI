@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices.WindowsRuntime;
+using TafeBuddyUI.Model;
 using Windows.ApplicationModel;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
@@ -22,6 +23,10 @@ namespace TafeBuddyUI
     /// </summary>
     sealed partial class App : Application
     {
+
+        public static Student _Student { get; set; }
+
+        public static Student myStudent { get; internal set; }
         /// <summary>
         /// Initializes the singleton application object.  This is the first line of authored code
         /// executed, and as such is the logical equivalent of main() or WinMain().
